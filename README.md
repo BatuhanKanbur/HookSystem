@@ -19,9 +19,11 @@ Detect changes in **fields** or **properties** automatically without writing man
 
 ## 📦 Installation
 
-1.  Download the package or clone this repository.
-2.  Drop the `HookSystem` folder into your project's `Assets/Scripts` directory.
-3.  You are ready to go! No initialization required.
+> **Requirement:** Unity 2021.3+  
+> Add `HookSystem` via Git URL in Unity Package Manager:
+```
+https://github.com/BatuhanKanbur/HookSystem.git
+```
 
 ---
 
@@ -110,10 +112,15 @@ Zombie Protection: The system includes safety checks to prevent "Object spawned 
 
 Reflection: Reflection is only used once during registration to cache MemberInfo. The update loop uses these cached references for maximum performance.
 
-👤 Author
-Batuhan Kanbur - SR Game Developer
+🛠️ License
 
-www.batuhankanbur.com
+© 2025 Batuhan Kanbur.
+All rights reserved.
+This plugin may be used in both personal and commercial Unity projects.
+
+🌟 Credits
+
+Developed by Batuhan Kanbur
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
