@@ -1,18 +1,10 @@
 {
   "name": "com.batuhankanbur.hooksystem",
   "displayName": "Hook System",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "unity": "2021.3",
   "description": "A high-performance, reflection-based variable tracking and event polling system for Unity. Supports both MonoBehaviours and POCOs.",
-  "author": {
-    "name": "Batuhan Kanbur",
-    "email": "contact@batuhankanbur.com",
-    "url": "https://www.batuhankanbur.com"
-  },
-  "dependencies": {
-    "com.cysharp.unitask": "2.0.0"
-  },
-  "keywords": [
+"keywords": [
     "unity",
     "variable-tracking",
     "polling",
@@ -28,7 +20,13 @@
     "mirror-style",
     "clean-code"
   ],
+  "category": "Utilities",
+  "author": {
+    "name": "Batuhan Kanbur",
+    "email": "batuhankanbur95@gmail.com",
+    "url": "https://github.com/batuhankanbur"
+  },
   "license": "MIT",
-  "changelogUrl": "https://github.com/BatuhanKanbur/HookSystem/blob/main/CHANGELOG.md",
-  "documentationUrl": "https://github.com/BatuhanKanbur/HookSystem/blob/main/README.md"
+  "dependencies": {
+  }
 }
