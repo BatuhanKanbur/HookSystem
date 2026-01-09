@@ -19,9 +19,11 @@ Detect changes in **fields** or **properties** automatically without writing man
 
 ## 📦 Installation
 
-1.  Download the package or clone this repository.
-2.  Drop the `HookSystem` folder into your project's `Assets/Scripts` directory.
-3.  You are ready to go! No initialization required.
+> **Requirement:** Unity 2021.3+  
+> Add `HookSystem` via Git URL in Unity Package Manager:
+```
+https://github.com/BatuhanKanbur/HookSystem.git
+```
 
 ---
 
