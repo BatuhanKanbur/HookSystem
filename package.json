@@ -1,24 +1,34 @@
 {
-  "name": "com.batuhankanbur.clearbg",
-  "displayName": "ClearBG",
-  "version": "2.1.2",
+  "name": "com.batuhankanbur.hooksystem",
+  "displayName": "Hook System",
+  "version": "1.0.0",
   "unity": "2021.3",
-  "description": "A lightweight and high-performance Unity plugin for transparent window rendering and taskbar-safe UI integration.",
-  "keywords": [
-    "transparency",
-    "clear",
-    "background",
-    "overlay",
-    "windows",
-    "plugin"
-  ],
-  "category": "Utilities",
+  "description": "A high-performance, reflection-based variable tracking and event polling system for Unity. Supports both MonoBehaviours and POCOs.",
   "author": {
     "name": "Batuhan Kanbur",
-    "email": "batuhankanbur95@gmail.com",
-    "url": "https://github.com/batuhankanbur"
+    "email": "contact@batuhankanbur.com",
+    "url": "https://www.batuhankanbur.com"
   },
-  "license": "MIT",
   "dependencies": {
-  }
+    "com.cysharp.unitask": "2.0.0"
+  },
+  "keywords": [
+    "unity",
+    "variable-tracking",
+    "polling",
+    "reflection",
+    "event-system",
+    "syncvar",
+    "hook",
+    "reactive",
+    "game-development",
+    "attributes",
+    "optimization",
+    "automation",
+    "mirror-style",
+    "clean-code"
+  ],
+  "license": "MIT",
+  "changelogUrl": "https://github.com/BatuhanKanbur/HookSystem/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/BatuhanKanbur/HookSystem/blob/main/README.md"
 }
