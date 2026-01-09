@@ -1,0 +1,24 @@
+{
+  "name": "com.batuhankanbur.clearbg",
+  "displayName": "ClearBG",
+  "version": "2.1.2",
+  "unity": "2021.3",
+  "description": "A lightweight and high-performance Unity plugin for transparent window rendering and taskbar-safe UI integration.",
+  "keywords": [
+    "transparency",
+    "clear",
+    "background",
+    "overlay",
+    "windows",
+    "plugin"
+  ],
+  "category": "Utilities",
+  "author": {
+    "name": "Batuhan Kanbur",
+    "email": "batuhankanbur95@gmail.com",
+    "url": "https://github.com/batuhankanbur"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}

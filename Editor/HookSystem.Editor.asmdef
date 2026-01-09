@@ -1,0 +1,16 @@
+{
+    "name": "HookSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:becf4145b86475a469d8da42d481545f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
