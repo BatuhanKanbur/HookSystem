@@ -110,10 +110,15 @@ Zombie Protection: The system includes safety checks to prevent "Object spawned 
 
 Reflection: Reflection is only used once during registration to cache MemberInfo. The update loop uses these cached references for maximum performance.
 
-👤 Author
-Batuhan Kanbur - SR Game Developer
+🛠️ License
 
-www.batuhankanbur.com
+© 2025 Batuhan Kanbur.
+All rights reserved.
+This plugin may be used in both personal and commercial Unity projects.
+
+🌟 Credits
+
+Developed by Batuhan Kanbur
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
